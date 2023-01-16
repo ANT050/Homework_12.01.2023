@@ -5,6 +5,8 @@ int i = new Random().nextInt(k); //это кидалка случайных чи
 
 import java.util.Random;
 
+/*Реализовано в методе main*/
+
 public class Task_1 {
 	public static void main(String[] args) {
 		int randomNum = new Random().nextInt(2001);
@@ -13,7 +15,7 @@ public class Task_1 {
 	}
 }
 
-/*Пункты реализованы в разных методах*/
+/*Реализовано в разных методах*/
 /*
 public class Task_1 {
 	public static void main(String[] args) {

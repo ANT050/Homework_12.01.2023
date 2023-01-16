@@ -5,7 +5,7 @@ int i = new Random().nextInt(k); //это кидалка случайных чи
 
 import java.util.Random;
 
-/*Реализация в методе main*/
+/*Реализовано в методе main*/
 
 public class Task_3 {
 	public static void main(String[] args) {
@@ -44,8 +44,7 @@ public class Task_3 {
 	}
 }
 
-/* Реализация в разных методах */
-
+/*Реализовано в разных методах*/
 /*
 public class Task_3 {
 	public static void main(String[] args) {
